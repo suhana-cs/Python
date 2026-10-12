@@ -34,3 +34,8 @@ print(marks[1:4:2])
 print(marks[0:len(marks)])
 print(marks[1:9])
 print(marks[1:9:3])
+
+if "6" in marks:
+    print("Yes")
+else:
+    print("No")
